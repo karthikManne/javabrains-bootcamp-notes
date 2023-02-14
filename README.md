@@ -1,1 +1,1 @@
-# javabrains-bootcamp-notes
+# JavaBrains BootCamp Notes
